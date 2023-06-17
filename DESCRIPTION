@@ -1,8 +1,8 @@
 Type: Package
 Package: uniformly
 Title: Uniform Sampling
-Version: 0.3.0
-Date: 2023-05-19
+Version: 0.4.0
+Date: 2023-06-16
 Author: Stéphane Laurent
 Maintainer: Stéphane Laurent <laurent_step@outlook.fr>
 Description: Uniform sampling on various geometric shapes, such as
@@ -16,6 +16,6 @@ VignetteBuilder: knitr
 Encoding: UTF-8
 RoxygenNote: 7.2.3
 NeedsCompilation: no
-Packaged: 2023-05-19 18:31:55 UTC; stla
+Packaged: 2023-06-17 11:45:10 UTC; SDL96354
 Repository: CRAN
-Date/Publication: 2023-05-19 19:00:02 UTC
+Date/Publication: 2023-06-17 22:30:02 UTC
